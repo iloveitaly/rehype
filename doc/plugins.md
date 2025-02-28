@@ -68,6 +68,8 @@ The list of plugins:
   — support figure and caption from images
 * [`rehype-format`](https://github.com/rehypejs/rehype-format)
   — format HTML
+* [`rehype-graphviz-diagram`](https://github.com/PrinOrange/rehype-graphviz-diagram)
+  — render Graphviz diagrams as SVG
 * [`rehype-highlight`](https://github.com/rehypejs/rehype-highlight)
   — syntax highlight code blocks with Highlight.js via `lowlight`
 * [`rehype-highlight-code-block`](https://github.com/mapbox/rehype-highlight-code-block)
